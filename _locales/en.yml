@@ -23,3 +23,6 @@ en:
   attractions:
     buttons:
       get_directions: Get Directions
+  carousels:
+    next: FORWARD
+    previous:  BACK
