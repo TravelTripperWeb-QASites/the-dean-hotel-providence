@@ -34,7 +34,7 @@ url: # the base hostname & protocol for your site e.g. "https://www.traveltrippe
 
 # Language Settings
 default_lang: 'en'
-languages: ['en']
+languages: ['en', 'es']
 
 include:
   - _pages
