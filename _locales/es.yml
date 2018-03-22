@@ -1,8 +1,8 @@
-en:
+es:
   header:
-    book_now_button: Book Now
-    language: Language
-    language_name: English
+    book_now_button: Book Ahora
+    language: Lingua
+    language_name: Español
   footer:
     address_header: Address
     contact_header: Contact
@@ -27,4 +27,4 @@ en:
       get_directions: Get Directions
   carousels:
     next: ""
-    previous:  ""
+    previous:  ''
