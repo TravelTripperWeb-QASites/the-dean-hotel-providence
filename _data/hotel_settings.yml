@@ -15,3 +15,4 @@ address:
   
 _hotel_id: KEY24N #KEY24N, TTDEMO, HODE
 _portal_id: required-but-empty #24northhotel, demo, demohotel
+_ttweb_plugins_version: "v2"
