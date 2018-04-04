@@ -2,9 +2,7 @@
   "name": "The Fancy Restaurant",
   "tagline": "Join us for dinner",
   "description": "<p>Info about the restaurant</p>",
-  "image": {
-    "url": "/assets/stock_images/breakfast.jpg"
-  },
+  "image": {"id":6,"name":"breakfast","file_name":"breakfast.jpg","file_type":"image/jpeg","tags":"","file_size":1349789,"width":1400,"height":933,"description":"","url":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/breakfast.jpg","url_large":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/large_breakfast.jpg","url_medium":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/medium_breakfast.jpg","url_small":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/small_breakfast.jpg","url_xsmall":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/xsmall_breakfast.jpg","url_thumb":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/thumb_breakfast.jpg","created_at":"2018-01-23T12:11:52-05:00","updated_at":"2018-01-23T12:11:52-05:00"},
   "menu_url": "http://www.google.com",
   "reservations_url": "http://www.google.com",
   "order": 1

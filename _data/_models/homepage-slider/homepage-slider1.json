@@ -1,10 +1,5 @@
 {
   "name": "Lobby",
-  "image": {
-    "url": "/assets/stock_images/lobby.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Lobby"
-  },
+  "image": {"id":11,"name":"lobby","file_name":"lobby.jpg","file_type":"image/jpeg","tags":"","file_size":1307530,"width":1400,"height":934,"description":"","url":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/lobby.jpg","url_large":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/large_lobby.jpg","url_medium":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/medium_lobby.jpg","url_small":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/small_lobby.jpg","url_xsmall":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/xsmall_lobby.jpg","url_thumb":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121201/thumb_lobby.jpg","created_at":"2018-01-23T12:12:02-05:00","updated_at":"2018-01-23T12:12:02-05:00"},
   "order": 1
 }

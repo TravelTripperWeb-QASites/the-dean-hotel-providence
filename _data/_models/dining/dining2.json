@@ -2,9 +2,7 @@
   "name": "The Bar",
   "tagline": "Have a drink with us",
   "description": "<p>Info about the bar</p>",
-  "image": {
-    "url": "/assets/stock_images/outdoor-restaurant.jpg"
-  },
+  "image": {"id":14,"name":"outdoor-restaurant","file_name":"outdoor-restaurant.jpg","file_type":"image/jpeg","tags":"","file_size":1087248,"width":1400,"height":933,"description":"","url":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121205/outdoor-restaurant.jpg","url_large":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121205/large_outdoor-restaurant.jpg","url_medium":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121205/medium_outdoor-restaurant.jpg","url_small":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121205/small_outdoor-restaurant.jpg","url_xsmall":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121205/xsmall_outdoor-restaurant.jpg","url_thumb":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121205/thumb_outdoor-restaurant.jpg","created_at":"2018-01-23T12:12:07-05:00","updated_at":"2018-01-23T12:12:07-05:00"},
   "menu_url": "http://www.google.com",
   "reservations_url": "",
   "order": 2
