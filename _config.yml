@@ -5,6 +5,7 @@ plugins_dir:
   - _plugins
 
 i18n_dir:
+  - _ttio_templates/bedrock/_locales
   - _ttio_templates/express-multi/locales
   - _locales
 
