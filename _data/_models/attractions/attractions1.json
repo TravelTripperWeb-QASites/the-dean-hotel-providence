@@ -1,7 +1,7 @@
 {
-    "title": "Big Monument",
+    "name": "Big Monument",
     "sub_title": "A must-see",
-    "category": "Sights",
+    "category": ["Monument"],
     "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>",
     "image": {"name":"tower bridge","file_name":"tower-bridge.jpg","file_type":"image/jpeg","tags":"tower bridge, bridge, london, city","file_size":1283141,"width":1400,"height":935,"description":"Tower bridge in London","url":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121207/tower-bridge.jpg","url_large":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121207/large_tower-bridge.jpg","url_medium":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121207/medium_tower-bridge.jpg","url_small":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121207/small_tower-bridge.jpg","url_xsmall":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121207/xsmall_tower-bridge.jpg","url_thumb":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121207/thumb_tower-bridge.jpg","created_at":"2018-01-23T12:12:09-05:00","updated_at":"2018-01-23T12:14:16-05:00"},
     "latitude": 40.7547385,
