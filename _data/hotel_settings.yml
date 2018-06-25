@@ -1,18 +1,18 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 41.82337
+longitude: -71.41602
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+name: The Dean Hotel
+email: alex@traveltripper.com
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
-_ttweb_plugins_version: "v2"
+  street1: 122 Fountain Street
+  street2: ''
+  state: Rhode Island
+  city: Providence
+  country: United States
+  zip_code: 02903
+_hotel_id: THE335
+_portal_id: required-but-empty
+_ttweb_plugins_version: v2
+_root_path: http://rtexpress-qa.ttaws.com/rt
