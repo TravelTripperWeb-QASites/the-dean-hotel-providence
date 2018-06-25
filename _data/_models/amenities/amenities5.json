@@ -1,4 +1,5 @@
 {
-  "name": "Laundry & Dryclean services",
-  "order": 5
+  "name": "Dry cleaning/laundry service",
+  "order": 5,
+  "hidden": false
 }

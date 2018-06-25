@@ -1,0 +1,139 @@
+{
+  "name_localized": {
+    "en": "The Classmates Room, Four Bunk Beds",
+    "es": "The Classmates Room, Four Bunk Beds"
+  },
+  "short_description_localized": {
+    "en": "The Classmates Room, Four Bunk Beds",
+    "es": "The Classmates Room, Four Bunk Beds"
+  },
+  "description_localized": {
+    "en": "<strong>4 Twin Bunk Beds</strong><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Flat-screen TV with premium channels<br /><b>Sleep</b> - Premium bedding <br /><b>Bathroom</b> - Private bathroom, shower, designer toiletries, and a hair dryer (on request)<br /><b>Practical</b> - Iron/ironing board and desk; free cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>4 Twin Bunk Beds</strong><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - Flat-screen TV with premium channels<br /><b>Sleep</b> - Premium bedding <br /><b>Bathroom</b> - Private bathroom, shower, designer toiletries, and a hair dryer (on request)<br /><b>Practical</b> - Iron/ironing board and desk; free cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Designer toiletries"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer (on request)"
+      },
+      {
+        "name": "Individually decorated"
+      },
+      {
+        "name": "Individually furnished"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Number of bathrooms - 1"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Premium bedding"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Designer toiletries"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer (on request)"
+      },
+      {
+        "name": "Individually decorated"
+      },
+      {
+        "name": "Individually furnished"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Number of bathrooms - 1"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Premium bedding"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "": "RM3",
+  "order": 3
+}
