@@ -2,25 +2,6 @@
   "name": "Test",
   "photos": [
     {
-      "name": "drum",
-      "file_name": "drum.png",
-      "url": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/drum.png",
-      "tags": "",
-      "description": "",
-      "date_added": "2018-07-05-142413",
-      "file_type": "image/png",
-      "width": 128,
-      "height": 128,
-      "file_size": 13761,
-      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/large_drum.png",
-      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/medium_drum.png",
-      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/small_drum.png",
-      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/xsmall_drum.png",
-      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/thumb_drum.png",
-      "path": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/drum.png",
-      "alt": "drum"
-    },
-    {
       "name": "15WinterKitchenLayout",
       "file_name": "15WinterKitchenLayout.jpg",
       "url": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142355/15WinterKitchenLayout.png",
@@ -38,6 +19,25 @@
       "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142355/thumb_15WinterKitchenLayout.png",
       "path": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142355/15WinterKitchenLayout.png",
       "alt": "15WinterKitchenLayout"
+    },
+    {
+      "name": "drum",
+      "file_name": "drum.png",
+      "url": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/drum.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-07-05-142413",
+      "file_type": "image/png",
+      "width": 128,
+      "height": 128,
+      "file_size": 13761,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/large_drum.png",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/medium_drum.png",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/small_drum.png",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/xsmall_drum.png",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/thumb_drum.png",
+      "path": "//cdn.qa-traveltripper.info/site-assets/2_28_126/media/2018-07-05-142413/drum.png",
+      "alt": "drum"
     }
   ],
   "description": ""
