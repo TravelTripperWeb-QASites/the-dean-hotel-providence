@@ -135,5 +135,6 @@
 
   ],
   "": "RM3",
-  "order": 3
+  "order": 3,
+  "reztrip_room_id": "RM3"
 }
